@@ -1,0 +1,20 @@
+.first {
+    background-color: yellow;
+    width: 600px;
+    height: 400px;
+}
+.second {
+    background-color: pink;
+    width: 400px;
+    height: 250px;
+}
+.third {
+    background-color: grey;
+    width: 100px;
+    height: 300px;
+}
+.forth {
+    background-color: purple;
+    width: 350px;
+    height: 120px;
+}
